@@ -1,3 +1,3 @@
-<h3>clubreal.world</h3>
+<h3>clubreal.world | <a href="mailto:lovesdevotee@gmail.com">contact</a></h3>
 <img src="images/logo.svg" alt="ClubRealWorld Logo" />
-<a href="mailto:lovesdevotee@gmail.com">Contact ClubRealWorld</a>
+
